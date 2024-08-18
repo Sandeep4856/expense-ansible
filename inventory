@@ -2,7 +2,7 @@
 db.dharla.online
 
 [backend]
-172.31.31.57
+backend .dharla.online
 
 [frontend]
 dharla.online
