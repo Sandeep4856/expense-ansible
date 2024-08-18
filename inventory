@@ -2,7 +2,7 @@
 db.dharla.online
 
 [backend]
-backend .dharla.online
+backend.dharla.online
 
 [frontend]
 dharla.online
